@@ -7,7 +7,7 @@
 html {
     block-size: 100%;
 }
-
+/*  Прозрачная кнопка с белой рамкой и текстом */
 .button {
     cursor: pointer;
 
